@@ -123,7 +123,7 @@ Material:
     - _SubstrateGrainHeightMax: 0.64
     - _SubstrateTightening: 1.09
     - _Surface: 0
-    - _UVScale: 1
+    - _UVScale: 0.5
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
