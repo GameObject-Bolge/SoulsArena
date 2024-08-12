@@ -35,8 +35,8 @@ public class PlayerMovement : MonoBehaviour
     private InputAction sprint;
 
     [Header("Keybinds")]
-    [SerializeField] KeyCode jumpKey = KeyCode.Space;
-    [SerializeField] KeyCode crouchKey = KeyCode.LeftControl;
+    //[SerializeField] KeyCode jumpKey = KeyCode.Space;
+    //[SerializeField] KeyCode crouchKey = KeyCode.LeftControl;
     [SerializeField] KeyCode sprintKey = KeyCode.LeftShift;
        
     [Header("Ground Check")]
