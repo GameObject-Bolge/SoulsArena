@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19bb5b4c0f86988409230d632df79993, type: 3}
+  m_Name: Boss 1
+  m_EditorClassIdentifier: 
+  bossName: Igor
+  bossLore: Assistant to Dr. Frankenstein
+  bossHealth: 100
+  bossSpeed: 5
+  bossRange: 5
+  bossAttackSpeed: 2
+  target: {fileID: 0}
+  state: 0
+  range: 0
